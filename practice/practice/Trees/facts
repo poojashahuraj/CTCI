@@ -1,0 +1,6 @@
+1. Following combinations can construct binary tree.
+In order and Pre order.
+In order and Post order.
+In order and Level-order.
+
+2. if know that the Binary Tree is Full, we can construct the tree without ambiguity.
